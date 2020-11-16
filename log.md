@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
+### Day 1: November 15, Sunday
 
 **Today's Progress**: Completed FreeCodeCamps Introduction to Basic HTML & HTML5 section, Continuing Frontend Masters Online Bootcamp - Introduction to CSS section.
 
