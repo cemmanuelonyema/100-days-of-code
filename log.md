@@ -1,25 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
 ### Day 1: June 27, Monday
+
+**Today's Progress**: Completed FreeCodeCamps Introduction to Basic HTML & HTML5 section, Continuing Frontend Masters Online Bootcamp - Introduction to CSS section.
+
+**Thoughts** After two bad attempts at #100daysOfCode this is the big one, I plan on building more projects and creating a professional portfolio through coursework, reading, and coding. I have a few challenges and paid for courses in mind. I'm also considering time-boxing this round in order to not stay on the same subject too long. 
+
+**Link(s) to work**
+1. [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+2. [Introduction to CSS](https://frontendmasters.com/bootcamp/introduction-css/)
+
+### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
