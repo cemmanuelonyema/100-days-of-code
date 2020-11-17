@@ -12,7 +12,7 @@
 
 ### Day 2: November 16, Monday 
 
-**Today's Progress**: Finished Basic CSS and continued the CSS section of the bootcamp, have some excersises to finish for the Bootcamp tomorrow, just some basic CSS markup.
+**Today's Progress**: Finished Basic CSS and continued the CSS section of the bootcamp, have some exercises to finish for the Bootcamp tomorrow, just some basic CSS markup.
 
 **Thoughts**: Glad I'm back at it, I'm going to be super consistent this time. I really want to build a portfolio I can be proud of.
 
