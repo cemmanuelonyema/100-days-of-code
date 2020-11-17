@@ -14,7 +14,7 @@
 
 **Today's Progress**: Finished Basic CSS and continued the CSS section of the bootcamp, have some excersises to finish for the Bootcamp tomorrow, just some basic CSS markup.
 
-**Thoughts** Glad I'm back at it, I'm going to be super consistent this time. I really want to build a portfolio I can be proud of.
+**Thoughts**: Glad I'm back at it, I'm going to be super consistent this time. I really want to build a portfolio I can be proud of.
 
 **Link(s) to work**
 1. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
@@ -25,7 +25,7 @@
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
