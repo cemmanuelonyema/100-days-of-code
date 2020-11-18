@@ -27,7 +27,7 @@
 **Thoughts**: Learned some cool CSS animation functions, didn't have time to do the CSS section of the boot camp today because all 3 pomodoros were spent on FCC. Plus I'm going to pick up another course from Wes Bos when I make it to the CSS Flexbox and Grid to have a better understanding of them this time. I want my sites to look cool and have good UX and functionality!
 
 **Link to work**
-  [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
+  1. [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
 
 
 ### Day 0: June 27, Monday -EXAMPLE-
