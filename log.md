@@ -29,6 +29,15 @@
 **Link to work**
   1. [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
 
+### Day 4: November 18, Wednesday
+
+**Today's Progress**: Completed Applied Accessibility on FreeCodeCamp and finished one of the two CSS practice exercises on the FrontEnd Masters bootcamp.
+
+**Thoughts**: The recent days have shown me that I need to create more content, I make simple mistakes like linking the CSS stylesheet to the wrong folder. I haven't made many websites or practiced toy coding problems, so In return I have become weak and sloppy. All that ends!!! MOTIVATION comes with ACTION
+
+**Link(s) to work**
+1. [Applied Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
+2. [Introduction To CSS- CSS Exercises](https://frontendmasters.com/bootcamp/introduction-css/css-exercises/)
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
