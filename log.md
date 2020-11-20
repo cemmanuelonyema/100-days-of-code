@@ -39,6 +39,16 @@
 1. [Applied Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
 2. [Introduction To CSS- CSS Exercises](https://frontendmasters.com/bootcamp/introduction-css/css-exercises/)
 
+### Day 5: November 19, Thursday
+
+**Today's Progress**: Made A lot of progress! Finished FreeCodeCamps Responsive Web Design Principles section and started the CSS Flexbox section, realized I was doing a lot of CSS in FCC and the FrontEnd Masters bootcamp, and I'm supposed to be time-boxing only on the subject of HTML, so I started reading and coding along with the online tutorial "Interneting Is Hard". Wrote some HTML and downloaded and used Atom editor for the first time and it looks pretty cool :)
+
+**Thoughts**: I haven't had this much fun coding in a while! The hour flew by fast, I even skipped a break during the pomodoros. I'm ready to get the basics down packed so I can move on to Javascript and Python. Wes Bos courses are on sale so I'm probably gonna purchase some, plus Black Friday is coming next week so I'm buying some Udemy courses on JS also. 
+
+**Link(s) to work**
+1. [Responsive Web Design Principles](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/)
+2. [Interneting Is Hard](https://www.internetingishard.com/html-and-css/basic-web-pages/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
