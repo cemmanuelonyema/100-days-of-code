@@ -49,6 +49,16 @@
 1. [Responsive Web Design Principles](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/)
 2. [Interneting Is Hard](https://www.internetingishard.com/html-and-css/basic-web-pages/)
 
+### Day 6: November 20, Friday
+
+**Today's Progress**: Watching FreeCodeCamps 2hr HTML Course for 1 hour.
+
+**Thoughts**: Had a very busy day outside of coding preparing for a meetup with NWC tomorrow, so I'm just going to stay within the HTML timebox but I'm too tired to read and code. Learning as much as I can about HTML, I have 2 more days to finish the online book and this video course.
+
+**Link(s) to work**
+1. [FreeCodeCamp - HTML Full Course - Build a Website Tutorial](https://youtu.be/pQN-pnXPaVg)
+
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
