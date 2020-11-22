@@ -58,6 +58,16 @@
 **Link(s) to work**
 1. [FreeCodeCamp - HTML Full Course - Build a Website Tutorial](https://youtu.be/pQN-pnXPaVg)
 
+### Day 7: November 21, Saturday
+
+**Today's Progress**: Continued reading and coding along with "Interneting Is Hard"
+
+**Thoughts**: Having some real fun with HTML in this online book, learning a few new tricks with anchor links and website structure. I really did need this crash course in the basics. I need to stick to it. Tomorrow I will be done with the HTML section of the book, and I can finish up the FCC HTML video course. Then I have 8 days of CSS. 
+
+**Link to work**
+1. [Interneting Is Hard](https://www.internetingishard.com/html-and-css/links-and-images/)
+
+
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
@@ -68,4 +78,3 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
