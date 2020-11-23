@@ -67,7 +67,16 @@
 **Link to work**
 1. [Interneting Is Hard](https://www.internetingishard.com/html-and-css/links-and-images/)
 
+### Day 8: November 22, Sunday
 
+**Today's Progress**: Finished reading "Interneting Is Hard" HTML section, skimmed over FrontEndMasters Bootcamp HTML Reference and also took the HTML Quiz on W3schools and got a 90%! I scored 36 out of 40 points.
+
+**Thoughts**: This time-boxing method of studying a certain subject for me seems to pay off. I thought I would do okay on the quiz but not a 90. I start CSS tomorrow so I'm getting back to the BootCamp and FreeCodeCamp, plus I'm going to finish reading the CSS section of Interneting is Hard and do the Wes Bos courses on Flexbox and CSS Grid. CSS is a big subject so It's easy to get caught up. I also can't forget about Flexbox Zombies, honestly I can easily commit to 100days of CSS, LoL :D
+
+**Link(s) to work**
+1. [Interneting Is Hard](https://www.internetingishard.com/html-and-css/links-and-images/#link-targets)
+2. [W3Schools- HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
+3. [FrontEndMasters- HTML Notes](https://frontendmasters.github.io/bootcamp/html)
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
@@ -78,3 +87,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
