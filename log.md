@@ -78,6 +78,17 @@
 2. [W3Schools- HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
 3. [FrontEndMasters- HTML Notes](https://frontendmasters.github.io/bootcamp/html)
 
+### Day 9: November 23, Monday
+
+**Today's Progress**: Started the CSS section of my time-boxing schedule. Finished the Flexbox section of FCC Curriculum, started Wes Bos Course What The Flexbox to complement it and I also continued the CSS Spacing section of the FrontEnd Masters bootcamp.
+
+**Thoughts**: Learned a lot today! Like that even though all webpages look 2D they are actually 3D because of the Z-Index. I'm moving through these courses and curriculum faster than I guessed. I hope I finish the Wes Bos course by at least day 11 because I don't want to spend too much time on CSS vast sea of subjects. I aslo need to finish reading the CSS section of "Interneting Is Hard" so I have plenty of work to do, and can't forget about Flexbox Zombies.  
+
+**Link(s) to work**
+1. [FreeCodeCamp- Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
+2. [Wes Bos- What The Flexbox](https://flexbox.io/)
+3. [FrontEndMasters- CSS Spacing](https://frontendmasters.com/bootcamp/introduction-css/editing-default-margins/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
