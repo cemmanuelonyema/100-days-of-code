@@ -89,6 +89,16 @@
 2. [Wes Bos- What The Flexbox](https://flexbox.io/)
 3. [FrontEndMasters- CSS Spacing](https://frontendmasters.com/bootcamp/introduction-css/editing-default-margins/)
 
+### Day 10: November 24, Tuesday
+
+**Today's Progress**: Continued Wes Bos "What The Flexbox" course
+
+**Thoughts**: Learned some real interesting tricks in Flexbox, it seems to be very useful, especially with postioning and aligning items on a page. It's power to make a site responsive seems to be unlimited, I see why the developer community is pushing it. I want to write a blog post over all I have currently learned but don't know where to start.
+
+**Link to work**
+1. [Wes Bos- What The Flexbox](https://flexbox.io/)
+
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
