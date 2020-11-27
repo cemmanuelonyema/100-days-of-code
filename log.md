@@ -103,7 +103,7 @@
 
 **Today's Progress**: Finished the CSS Grid exercises on FreeCodeCamp.
 
-**Thoughts**: Missed yesterday due to a family emergency, today is Thanksgiving so I mostyly hung out with family, took time to code on my phone for an hour. Also received "Javascript: The Weird Parts" course on Udemy as a gift from my mentor today!
+**Thoughts**: Missed yesterday due to a family emergency, today is Thanksgiving so I hung out with family, took time to code on my phone for an hour. Also received "Javascript: The Weird Parts" course on Udemy as a gift from my mentor today!
 
 **Link(s) to work**
 1. [FreeCodeCamp- CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
