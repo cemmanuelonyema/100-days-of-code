@@ -99,6 +99,16 @@
 1. [Wes Bos- What The Flexbox](https://flexbox.io/)
 
 
+### Day 11: November 26, Thursday
+
+**Today's Progress**: Finished the CSS Grid exercises on FreeCodeCamp.
+
+**Thoughts**: Missed yesterday due to a family emergency, today is Thanksgiving so I mostyly hung out with family, took time to code on my phone for an hour. Also received "Javascript: The Weird Parts" course on Udemy as a gift from my mentor today!
+
+**Link(s) to work**
+1. [FreeCodeCamp- CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
+2. [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
