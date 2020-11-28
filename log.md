@@ -109,6 +109,16 @@
 1. [FreeCodeCamp- CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
 2. [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
 
+### Day 12: November 27, Friday
+
+**Today's Progress**: Continued Wes Bos What The Flexbox course.
+
+**Thoughts**: Trying to finish up the Flexbox Course so I can get back on the FrontEnd Masters Course and Start the Wes Bos CSS Grid Course. My CSS days will be very productive. Thinking about doing a 4 hour session tomorrow to get some work done and solidify the things I'm learning, I never feel like I write enough CSS. Now that I'm focusing on it I should do some exercises on W3schools on it also.
+
+**Link to work**
+1. [Wes Bos- What The Flexbox](https://flexbox.io/)
+
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
