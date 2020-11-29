@@ -118,6 +118,17 @@
 **Link to work**
 1. [Wes Bos- What The Flexbox](https://flexbox.io/)
 
+### Day 13: November 28, Saturday
+
+**Today's Progress**: Continued What The Flexbox course.
+
+**Thoughts**: This course is AWESOME! It really shows the power behind Flexbox and CSS. I've seen the subject of combination power of CSS and JS but I'm just now seeing how it works in a real world application today. In todays lesson I had to download NodeJS and Gulp to Auto-Fix some CSS. I was not successful due to a system error, I'm pretty sure its my version of windows being that my laptop is pretty old and lacks a lot of windows security and build files. The attempt excited me! I didn't want to spend the entire night trying to fix an error on gulp and I dont have the JS experience to fix it. It was all super fun and I can't wait to get better and start deploying my own content to the web!
+
+**Link(s) to work**
+1. [Wes Bos- What The Flexbox](https://flexbox.io/)
+2. [NodeJS](https://nodejs.org/en/)
+3. [GulpJS](https://gulpjs.com/)
+2. [AutoPrefixer CSS](http://autoprefixer.github.io/)
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
