@@ -130,6 +130,17 @@
 3. [GulpJS](https://gulpjs.com/)
 2. [AutoPrefixer CSS](http://autoprefixer.github.io/)
 
+### Day 14: November 29, Sunday
+
+**Today's Progress**: Continued What The Flexbox course.
+
+**Thoughts**: Loving this course, used a little JQuery and nested flexbox items today and made some pretty cool navigation menus.
+
+**Link(s) to work**
+1. [Wes Bos- What The Flexbox](https://flexbox.io/)
+2. [CSS-Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+3. [JQuery](https://api.jquery.com/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -139,4 +150,6 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
 
