@@ -141,6 +141,17 @@
 2. [CSS-Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 3. [JQuery](https://api.jquery.com/)
 
+### Day 15: November 30, Monday
+
+**Today's Progress**: Almost finished with WTF course.
+
+**Thoughts**: I'm on the final lesson of the What The Flexbox course. I also purchased Traversy Media and FlorinPop's Udemy course "50 Projects in 50 Days". Tomorrow is supposed to be my final day on CSS but I'm going to extend it 5-8 days in order to finish Wes Bos Grid course and read "Interneting Is Hard" CSS section, I also need to get back on the FrontEnd Masters Bootcamp and dive into a Visual CSS book.
+
+**Link(s) to work**
+1. [Wes Bos- What The Flexbox](https://flexbox.io/)
+2. [CSS Visual Dictionary](https://jstutorial.medium.com/css-visual-dictionary-e53329daf93e)
+3. [50ProjectsIn50Days](https://www.udemy.com/course/50-projects-50-days)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
