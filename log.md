@@ -152,7 +152,7 @@
 2. [CSS Visual Dictionary](https://jstutorial.medium.com/css-visual-dictionary-e53329daf93e)
 3. [50ProjectsIn50Days](https://www.udemy.com/course/50-projects-50-days)
 
-### Day 16: December, Wednesday
+### Day 16: December 2, Wednesday
 
 **Today's Progress**: Finished Wes Bos "What The Flexbox" course, started and halfway finished with a project from Traversy Media on Youtube called "Build a Responsive Website | HTML, CSS Grid, Flexbox"
 
