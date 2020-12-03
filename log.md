@@ -152,6 +152,16 @@
 2. [CSS Visual Dictionary](https://jstutorial.medium.com/css-visual-dictionary-e53329daf93e)
 3. [50ProjectsIn50Days](https://www.udemy.com/course/50-projects-50-days)
 
+### Day 16: December, Wednesday
+
+**Today's Progress**: Finished Wes Bos "What The Flexbox" course, started and halfway finished with a project from Traversy Media on Youtube called "Build a Responsive Website | HTML, CSS Grid, Flexbox"
+
+**Thoughts**: Spent almost 2 hours coding today. Usually use the Pomodoro technique but I did not time myself today, just wrote code until I was at a halfway point in the video which is 2hrs, and then finished up the night with the Wes Bos course. I still have to continue the FrontEnd Masters course, read the book, and get back on my FCC projects. I did the Traversy Media code along in order to prepare for my projects, I want them to look good as possible. And on a personal note I was fired from my job as an electrician yesterday, that's why I missed another day. Don't plan on missing anymore!
+
+**Link(s) to work**
+1. [Wes Bos- What The Flexbox](https://flexbox.io/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p0bGHP-PXD4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -161,6 +171,7 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
 
 
 
