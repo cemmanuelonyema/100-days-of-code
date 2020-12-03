@@ -160,7 +160,7 @@
 
 **Link(s) to work**
 1. [Wes Bos- What The Flexbox](https://flexbox.io/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p0bGHP-PXD4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+2. [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://youtu.be/p0bGHP-PXD4)
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
