@@ -162,7 +162,16 @@
 1. [Wes Bos- What The Flexbox](https://flexbox.io/)
 2. [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://youtu.be/p0bGHP-PXD4)
 
-### Day 0: June 27, Monday -EXAMPLE-
+### Day 17: December 3, Thursday
+
+**Today's Progress**: Continued "Build a Responsive Website | HTML, CSS Grid, Flexbox" code along project.
+
+**Thoughts**: Started late at almost 11pm and ended up coding past 12a without knowing it. Love getting lost in building a project and plan on doing it more. I was scared that I was in "Tutorial Hell" as developers call it where you get caught up in doing tutorials but never building something on your own. Then I realized I had not finished many tutorials, LoL. So I'm good, I just need to stay focused and continue creating content. 
+
+**Link(s) to work**
+1. [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://youtu.be/p0bGHP-PXD4)
+
+### Day 18: December 4, Friday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -172,6 +181,14 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
+### Day 0: June 27, Monday -EXAMPLE-
 
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
