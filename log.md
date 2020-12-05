@@ -173,13 +173,14 @@
 
 ### Day 18: December 4, Friday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finally finished building the site!
 
-**Thoughts**: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I had a fun time with this code a long, I asked myself a lot of questions and Brad Traversy answered them well in the YouTube tutorial! I learned so much about CSS, Flexbox, and Grid that i'm excited for another build. I used Netlify to deploy it and github to host. I had a blast using the new technology and the coding was super fun. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://youtu.be/p0bGHP-PXD4)
+2. [My Website - Loruki](https://mockloruki.netlify.app/)
+3. [Netlify](https://www.netlify.com/)
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
