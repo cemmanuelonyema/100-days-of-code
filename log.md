@@ -185,6 +185,7 @@
 ### Day 19: December 5, Saturday
 
 **Today's Progress**: Finished freeCodeCamp Responsive Web Design Project - Build a Tribute Page
+
 **Thoughts**: Trying to use git and github more! I realize I have so much to learn and I cannot focus on trying to build the perfect webpage. I think I'm starting to understand that MVP saying, sometimes it's okay to finish with a passing score than to go above and beyond the call of duty wasting time in the process. 
 
 **Link(s) to work**
