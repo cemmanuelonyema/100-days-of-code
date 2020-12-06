@@ -182,6 +182,15 @@
 2. [My Website - Loruki](https://mockloruki.netlify.app/)
 3. [Netlify](https://www.netlify.com/)
 
+### Day 19: December 5, Saturday
+
+**Today's Progress**: Finished freeCodeCamp Responsive Web Design Project - Build a Tribute Page
+**Thoughts**: Trying to use git and github more! I realize I have so much to learn and I cannot focus on trying to build the perfect webpage. I think I'm starting to understand that MVP saying, sometimes it's okay to finish with a passing score than to go above and beyond the call of duty wasting time in the process. 
+
+**Link(s) to work**
+1. [Responsive Web Design Projects - Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+2. [My Website - Ben Franklin Tribute](https://bentribute.netlify.app/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -191,5 +200,6 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
 
 
