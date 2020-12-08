@@ -192,6 +192,16 @@
 1. [Responsive Web Design Projects - Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 2. [My Website - Ben Franklin Tribute](https://bentribute.netlify.app/)
 
+### Day 20: December 7, Monday
+
+**Today's Progress**: Created a mock Nike shoe landing page
+
+**Thoughts**: Did a code a long tutorial on YouTube to create a mock landing page with HTML and CSS. Deployed it on Netlify. 
+
+**Link(s) to work**
+1. [Awesome Landing Page Design For Nike Shoe Using Only HTML And CSS](https://youtu.be/OpP9SmmwQTs)
+2. [My Website - Mock Nike](https://mocknike.netlify.app/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
