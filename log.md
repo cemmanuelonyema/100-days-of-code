@@ -202,11 +202,11 @@
 1. [Awesome Landing Page Design For Nike Shoe Using Only HTML And CSS](https://youtu.be/OpP9SmmwQTs)
 2. [My Website - Mock Nike](https://mocknike.netlify.app/)
 
-### Day 21: December 8, Monday
+### Day 21: December 8, Wednesday
 
 **Today's Progress**: Played with some CSS to start working on a Weather App, started reading InternetingIsHard CSS section
 
-**Thoughts**: So I found a really neat article on Medium on how to create CSS cloud and sun images, but I found major issues with the code base and even had to comment on the article because it gave me such a hard time. Hopefully the author corrects it because the images are pretty cool and I would not mind using them in a future build. 
+**Thoughts**: So I found a really neat article on Medium on how to create CSS cloud and sun images, but I found major issues with the code base and even had to comment on the article because it gave me such a hard time. Hopefully the author corrects it because the images are pretty cool and I would not mind using them in a future build. I missed yesterday due to the fact I have been streseed about losing my job. 
 
 **Link(s) to work**
 1. [Create Beautiful Images in CSS to Buff Up Your Portfolio](https://medium.com/better-programming/create-beautiful-images-in-css-to-buff-up-your-portfolio)
