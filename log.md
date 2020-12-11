@@ -202,15 +202,24 @@
 1. [Awesome Landing Page Design For Nike Shoe Using Only HTML And CSS](https://youtu.be/OpP9SmmwQTs)
 2. [My Website - Mock Nike](https://mocknike.netlify.app/)
 
-### Day 21: December 8, Wednesday
+### Day 21: December 9, Wednesday
 
-**Today's Progress**: Played with some CSS to start working on a Weather App, started reading InternetingIsHard CSS section
+**Today's Progress**: Played with some CSS to start working on a Weather App, started reading Interneting Is Hard CSS section
 
 **Thoughts**: So I found a really neat article on Medium on how to create CSS cloud and sun images, but I found major issues with the code base and even had to comment on the article because it gave me such a hard time. Hopefully the author corrects it because the images are pretty cool and I would not mind using them in a future build. I missed yesterday due to the fact I have been streseed about losing my job. 
 
 **Link(s) to work**
 1. [Create Beautiful Images in CSS to Buff Up Your Portfolio](https://medium.com/better-programming/create-beautiful-images-in-css-to-buff-up-your-portfolio)
 2. [interneting is hard](https://www.internetingishard.com/html-and-css/hello-css/)
+
+### Day 22: December 10, Thursday
+
+**Today's Progress**: Continued reading Interneting Is Hard CSS
+
+**Thoughts**: This book is very impressive, very thought out and I really am enjoying reading it, I haven't gotten back to the FrontEnd Masters bootcamp and that is still on my mind. I'm probably going to increase study time to a full 2hrs. I'm currently at an average of 1hr15min a day so adding another 45min should be a breeze. I learned a lot about the nature of blocks in HTML and how CSS affects them, it is a very interesting subject that I have never really touched on. I'm glad I decided to start from the beginning again because there was so much I didn't know when you want to create awesome stuff. The power of CSS is a giant compared to HTML.
+
+**Link(s) to work**
+1. [interneting is hard](https://www.internetingishard.com/html-and-css/hello-css/)
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
