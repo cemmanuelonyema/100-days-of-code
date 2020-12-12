@@ -168,7 +168,7 @@
 
 **Thoughts**: Started late at almost 11pm and ended up coding past 12a without knowing it. Love getting lost in building a project and plan on doing it more. I was scared that I was in "Tutorial Hell" as developers call it where you get caught up in doing tutorials but never building something on your own. Then I realized I had not finished many tutorials, LoL. So I'm good, I just need to stay focused and continue creating content. 
 
-**Link(s) to work**
+**Link to work**
 1. [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://youtu.be/p0bGHP-PXD4)
 
 ### Day 18: December 4, Friday
@@ -218,8 +218,17 @@
 
 **Thoughts**: This book is very impressive, very thought out and I really am enjoying reading it, I haven't gotten back to the FrontEnd Masters bootcamp and that is still on my mind. I'm probably going to increase study time to a full 2hrs. I'm currently at an average of 1hr15min a day so adding another 45min should be a breeze. I learned a lot about the nature of blocks in HTML and how CSS affects them, it is a very interesting subject that I have never really touched on. I'm glad I decided to start from the beginning again because there was so much I didn't know when you want to create awesome stuff. The power of CSS is a giant compared to HTML.
 
-**Link(s) to work**
+**Link to work**
 1. [interneting is hard](https://www.internetingishard.com/html-and-css/hello-css/)
+
+### Day 22: December 11, Friday
+
+**Today's Progress**: Got back on the FrontEnd Masters Bootcamp CSS section
+
+**Thoughts**: I learned so much from the bootcamp today that I studied for 1hr40min! I always think that I know a lot about CSS and the box model but it seems I needed to go back to the basics because these videos and books are showing me topics I have never seen discussed in the past. Like how inline elements can either remain in their own level or take up the space of the parent element. This decision to re-do everything was completely worth it. Im not finishing all my course work rapidly because I'm randomly jumping around without really sticking to one. I think I need to extend my time to 5 pomodoros daily which will be a full 2hr15min. I'm probably going to rotate betwwen the online book and bootcamp then do some recap on flexbox and start the Wes Bos Grid course after im done with the CSS section of the bootcamp. After that it's on to my favorite subject: JAVASCRIPT!  
+
+**Link to work**
+1. [FrontEnd Masters Bootcamp: CSS - Float Image Right & Clear](https://frontendmasters.com/bootcamp/introduction-css/float-image-right-clear/)
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
@@ -230,6 +239,9 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+
 
 
 
