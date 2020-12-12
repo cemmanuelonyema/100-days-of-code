@@ -221,7 +221,7 @@
 **Link to work**
 1. [interneting is hard](https://www.internetingishard.com/html-and-css/hello-css/)
 
-### Day 22: December 11, Friday
+### Day 23: December 11, Friday
 
 **Today's Progress**: Got back on the FrontEnd Masters Bootcamp CSS section
 
