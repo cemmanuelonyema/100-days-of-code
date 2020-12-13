@@ -230,6 +230,18 @@
 **Link to work**
 1. [FrontEnd Masters Bootcamp: CSS - Float Image Right & Clear](https://frontendmasters.com/bootcamp/introduction-css/float-image-right-clear/)
 
+### Day 24: December 12, Saturday
+
+**Today's Progress**: Completed a YouTube website tutorial build with Traversy Media- Build a Responsive, Mobile First Website - HTML5 & CSS3 
+
+**Thoughts**: I've really enjoyed the code alongs with Brad Traversy, they are very informative and I learn so much about responsive design and VScode that these projects are priceless! Im learning more about Git/Github, and how to deploy sites directly from the command line in VScode. I know I'm learning more because I'm using Github more and Netlify makes the deployment of the websites a breeze. I'm looking into buying my second Udemy course from Brad because I already own the "50Days50Projects" and I will be starting on that soon. Plus I want to buy my own domain name from Netlify to host my portfolio.
+
+**Link(s) to work**
+1. [Build a Responsive, Mobile First Website - HTML5 & CSS3](https://youtu.be/XsEnj-1hG2o)
+2. [My Website: Mock Acme](https://mockacmephoto.netlify.app/)
+3. [Netlify](https://www.netlify.com/)
+4. [Traversy Media](https://www.traversymedia.com/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -239,6 +251,7 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
 
 
 
