@@ -242,6 +242,16 @@
 3. [Netlify](https://www.netlify.com/)
 4. [Traversy Media](https://www.traversymedia.com/)
 
+### Day 25: December 13, Sunday
+
+**Today's Progress**: Continued FrontEnd Masters Bootcamp CSS section
+
+**Thoughts**: I'm really enjoying this online bootcamp, after using it I will be using their paid for service in the future when I'm able to afford it. I'm learning a lot even though I have went through a lot of these subjects before. I'm trying not to spend too much time on CSS but It's hard not to when the book I'm reading and course I'm on is discussing them around the same time, plus I really liked Wes Bos flexbox course and I want to do the grid one also. I see that even when I advance into JS that the study of HTML and CSS should never stop. I'm going to have to increase studying time from 1-2hrs to 2-4hrs just to cover the topics I want to. I also started CSS Diner game because I don't know as much CSS as I thought after attempting the Blog Page Exercise. 
+
+**Link(s) to work**
+1. [FrontEnd Masters Bootcamp: CSS - Code A Blog Page](https://frontendmasters.com/bootcamp/introduction-css/footer-css-solution/)
+2. [CSS Diner](https://flukeout.github.io/#)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
