@@ -252,6 +252,17 @@
 1. [FrontEnd Masters Bootcamp: CSS - Code A Blog Page](https://frontendmasters.com/bootcamp/introduction-css/footer-css-solution/)
 2. [CSS Diner](https://flukeout.github.io/#)
 
+### Day 26: December 14, Monday
+
+**Today's Progress**: Created another awesome mock website with Traversy Media
+
+**Thoughts**: I had that itch to use Github and push some code so I can get used to the process of deploying my own sites. Had a good time coding along with Brad Traversy as usual. I love how he covers responsive design in multiple videos. A lot of people are teaching beginners to code webpages that are only designed for desktops/laptops and that is not a good thing to do. I'm glad I did some research this round because all of my pages from the past were non responsive. Even the nike mock up needs to be made responsive which I will probably take care of in my spare time. I'm so happy about my builds that Im looking into getting this guys courses on Udemy, Im really learning when he teaches. 
+
+**Link(s) to work**
+1. [Build An HTML5 Website With A Responsive Layout](https://youtu.be/Wm6CUkswsNw)
+2. [My Website - Acme Web Design](mockacmeweb.netlify.app)
+3. [Traversy Media](https://traversymedia.com/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
