@@ -260,7 +260,7 @@
 
 **Link(s) to work**
 1. [Build An HTML5 Website With A Responsive Layout](https://youtu.be/Wm6CUkswsNw)
-2. [My Website - Acme Web Design](mockacmeweb.netlify.app)
+2. [My Website - Acme Web Design](https://mockacmeweb.netlify.app)
 3. [Traversy Media](https://traversymedia.com/)
 
 ### Day 0: June 27, Monday -EXAMPLE-
