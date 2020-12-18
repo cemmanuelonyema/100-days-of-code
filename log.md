@@ -263,6 +263,17 @@
 2. [My Website - Acme Web Design](https://mockacmeweb.netlify.app)
 3. [Traversy Media](https://traversymedia.com/)
 
+### Day 27: December 14, Thursday
+
+**Today's Progress**: Continued FrontEnd Masters Bootcamp CSS section
+
+**Thoughts**: Missed a few days due to job searching and stress. I'm planning on making up for missed time by planning a small weekend hackathon. Try to finish up Interneting Is Hard CSS section, the bootcamp and a few FCC Projects. The whole point of the challenge is consistency. So I need to stick to it and practice everyday and dont miss again!
+
+**Link(s) to work**
+1. [FrontEnd Masters Bootcamp: CSS - Code A Blog Page](https://frontendmasters.com/bootcamp/introduction-css/wrapper-css-solution/)
+
+
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -272,6 +283,7 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
 
 
 
