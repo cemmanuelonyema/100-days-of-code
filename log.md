@@ -263,16 +263,25 @@
 2. [My Website - Acme Web Design](https://mockacmeweb.netlify.app)
 3. [Traversy Media](https://traversymedia.com/)
 
-### Day 27: December 14, Thursday
+### Day 27: December 17, Thursday
 
 **Today's Progress**: Continued FrontEnd Masters Bootcamp CSS section
 
 **Thoughts**: Missed a few days due to job searching and stress. I'm planning on making up for missed time by planning a small weekend hackathon. Try to finish up Interneting Is Hard CSS section, the bootcamp and a few FCC Projects. The whole point of the challenge is consistency. So I need to stick to it and practice everyday and dont miss again!
 
-**Link(s) to work**
+**Link to work**
 1. [FrontEnd Masters Bootcamp: CSS - Code A Blog Page](https://frontendmasters.com/bootcamp/introduction-css/wrapper-css-solution/)
 
 
+### Day 28: December 18, Friday
+
+**Today's Progress**: Finished CSS Section FrontEnd Masters Bootcamp, Continuing Interneting Is Hard CSS-Box-model
+
+**Thoughts**: Seem to be doing too much CSS if there is such a thing, started reading about Twitter Bootstrap the other day after viewing their CSS on the site, applied for their developer tools, so I'm thinking about doing a Youtube walkthrough of their stuff on my spare time. Continued reading Interneting Is Hard CSS, I'm on the CSS box model section. What's weird is even though I know a lot of this stuff, after re-learning it I feel like I'm doing it correctly this time. 
+
+**Link(s) to work**
+1. [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/introduction-css)
+2. [Interneting Is Hard - CSS-Box-Model](https://www.internetingishard.com/html-and-css/css-box-model/)
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
