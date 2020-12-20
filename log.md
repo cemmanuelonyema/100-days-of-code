@@ -283,6 +283,16 @@
 1. [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/introduction-css)
 2. [Interneting Is Hard - CSS-Box-Model](https://www.internetingishard.com/html-and-css/css-box-model/)
 
+### Day 29: December 19, Saturday
+
+**Today's Progress**: Completed Chpt.5 of Interneting Is Hard (CSS-Box-Model), Continuing Bootcamp - HTML Forms Section
+
+**Thoughts**: Seen some people who commit to Github everyday today, considered comitting code everyday starting at day 30 or 50, I want to make more pull requests also and start contributing to open source. Either way I need to push myself to start creating more stuff!
+
+**Link(s) to work**
+1. [Interneting Is Hard - CSS Selectors](https://www.internetingishard.com/html-and-css/css-selectors/)
+2. [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/html-forms/input-range/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -292,8 +302,6 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
 
 
 
