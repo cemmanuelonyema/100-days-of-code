@@ -293,6 +293,16 @@
 1. [Interneting Is Hard - CSS Selectors](https://www.internetingishard.com/html-and-css/css-selectors/)
 2. [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/html-forms/input-range/)
 
+### Day 30: December 20, Sunday
+
+**Today's Progress**: Read Chpt.6 of Interneting Is Hard (CSS-Selectors), Continued Bootcamp - HTML Forms
+
+**Thoughts**: I'm picking up on a lot of valuable information, I've seen the term BEM be thrown around in CSS articles but did not know what it was until today, it's like a style guide for CSS. I will be moving on to JavaScript by the end of this week, because I want to create a few pages during the week including my CSS studying. I still have my FreeCodeCamp projects to do.
+
+**Link(s) to work**
+1. [Interneting Is Hard - CSS Floats](https://www.internetingishard.com/html-and-css/floats/)
+2. [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/html-forms/select-list-input/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
