@@ -303,6 +303,17 @@
 1. [Interneting Is Hard - CSS Floats](https://www.internetingishard.com/html-and-css/floats/)
 2. [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/html-forms/select-list-input/)
 
+### Day 21: December 21, Monday 
+
+**Today's Progress**: Completed the HTML Forms section of the Bootcamp, revising Survey Form challenge for FreeCodeCamp
+
+**Thoughts**: Had an epic coding session tonight! About 3hrs study time. I'm getting the Survey Form challenge prepared for mobile view, and I'm trying to hook things up on the backend so it is an actual working form! I should have it done and pushed to Github and Netlify tomorrow. Found a jQuery script to only select one checkbox on stackOverflow, this is my first time messing with JS and using an actual script tag in my code in some time. I'm going to make this my last week studying CSS and move to JS and study CSS and HTML every couple of days. I been considering taking up the 30days30sites challenge to push code to Github everyday to up my skill level. I need to wait until I'm done with these projects for the FreeCodeCamp responsive certificate.
+
+**Link(s) to work**
+1. [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/html-forms/)
+2. [StackOverflow- Only one checkbox checked](https://stackoverflow.com/questions/36517293/only-one-checkbox-to-be-checked-at-time/36517338)
+3. [FreeCodeCamp - Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
