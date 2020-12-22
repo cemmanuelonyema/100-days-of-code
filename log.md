@@ -303,7 +303,7 @@
 1. [Interneting Is Hard - CSS Floats](https://www.internetingishard.com/html-and-css/floats/)
 2. [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/html-forms/select-list-input/)
 
-### Day 21: December 21, Monday 
+### Day 21: December 31, Monday 
 
 **Today's Progress**: Completed the HTML Forms section of the Bootcamp, revising Survey Form challenge for FreeCodeCamp
 
