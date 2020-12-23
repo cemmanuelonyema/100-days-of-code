@@ -314,6 +314,17 @@
 2. [StackOverflow- Only one checkbox checked](https://stackoverflow.com/questions/36517293/only-one-checkbox-to-be-checked-at-time/36517338)
 3. [FreeCodeCamp - Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
+### Day 32: December 22, Tuesday
+
+**Today's Progress**: Finished the Survey Form Challenge
+
+**Thoughts**: Made a working form that collects data through Netlify, their hosting platform is so good. I used the docs to add form submisson after learning about it in a tutorial with Traversy Media. I'm getting better at using Netlify, Git, and Github. I also started writing the HTML for the Product Landing Page, want to finish that site tomorrow and start the next section of the Bootcamp.
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+2. [My Website - Anime Form Survey](https://animesurvey.netlify.app/)
+3. [Netlify - Forms setup](https://docs.netlify.com/forms/setup/)
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -323,8 +334,6 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
 
 
 
