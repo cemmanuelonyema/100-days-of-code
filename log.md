@@ -325,6 +325,16 @@
 2. [My Website - Anime Form Survey](https://animesurvey.netlify.app/)
 3. [Netlify - Forms setup](https://docs.netlify.com/forms/setup/)
 
+### Day 33: December 23, Wednesday
+
+**Today's Progress**: Almost done with Product Landing Page Challenge
+
+**Thoughts**: Passed all 16 user stories for the "Build a Product Landing Page" challenge, I originally had a hard time doing this. But I realized as long as I obey the rules of the HTML and CSS that I could simply pass all of the tests and put my design on top of it after im done. I'm seeing the these builds from a whole different scope and I just want to learn so much more.
+
+**Link(s) to work**
+1. [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+
+
 ### Day 0: June 27, Monday -EXAMPLE-
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
