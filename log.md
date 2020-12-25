@@ -338,11 +338,28 @@
 
 **Today's Progress**: Completed Build a Product Landing Page for FreeCodeCamp
 
-**Thoughts**: I enjoyed listening to my music and styling the site. Getting the mobile view in check and messing around with flexbox. I'm better at finding out how to fix a problem on Google now, I used to get lost in articles and videos but it seems to be an easier process. Had fun with this build and plan on starting the next one after finishing up some of the bootcamp tomorrow. Merry Xmas everyone 	U+2764 &#10084;
+**Thoughts**: I enjoyed listening to my music and styling the site. Getting the mobile view in check and messing around with flexbox. I'm better at finding out how to fix a problem on Google now, I used to get lost in articles and videos but it seems to be an easier process. Had fun with this build and plan on starting the next one after finishing up some of the bootcamp tomorrow. Merry Xmas everyone &#10084; 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [My Website - Product Landing Page](https://air17mock.netlify.app/)
+        -+-
+         A
+        /=\               /\  /\    ___  _ __  _ __ __    __
+      i/ O \i            /  \/  \  / _ \| '__|| '__|\ \  / /
+      /=====\           / /\  /\ \|  __/| |   | |    \ \/ /
+      /  i  \           \ \ \/ / / \___/|_|   |_|     \  /
+    i/ O * O \i                                       / /
+    /=========\        __  __                        /_/    _
+    /  *   *  \        \ \/ /        /\  /\    __ _  ____  | |
+  i/ O   i   O \i       \  /   __   /  \/  \  / _` |/ ___\ |_|
+  /=============\       /  \  |__| / /\  /\ \| (_| |\___ \  _
+  /  O   i   O  \      /_/\_\      \ \ \/ / / \__,_|\____/ |_|
+i/ *   O   O   * \i
+/=================\
+       |___|
+
+
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
