@@ -343,23 +343,6 @@
 **Link(s) to work**
 1. [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 2. [My Website - Product Landing Page](https://air17mock.netlify.app/)
-        -+-
-         A
-        /=\               /\  /\    ___  _ __  _ __ __    __
-      i/ O \i            /  \/  \  / _ \| '__|| '__|\ \  / /
-      /=====\           / /\  /\ \|  __/| |   | |    \ \/ /
-      /  i  \           \ \ \/ / / \___/|_|   |_|     \  /
-    i/ O * O \i                                       / /
-    /=========\        __  __                        /_/    _
-    /  *   *  \        \ \/ /        /\  /\    __ _  ____  | |
-  i/ O   i   O \i       \  /   __   /  \/  \  / _` |/ ___\ |_|
-  /=============\       /  \  |__| / /\  /\ \| (_| |\___ \  _
-  /  O   i   O  \      /_/\_\      \ \ \/ / / \__,_|\____/ |_|
-i/ *   O   O   * \i
-/=================\
-       |___|
-
-
 
 ### Day 0: June 27, Monday -EXAMPLE-
 
